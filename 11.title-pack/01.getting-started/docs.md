@@ -33,7 +33,7 @@ At this point a form is diplayed to select the **title creation infos**.
 
 ### Title
 
-* *Base:* is to say whether it's a title that uses data from storm or canyon, or none. (like a manialink based minigame or infopage)
+* *Base:* is to say whether it's a title that uses data from storm or canyon stadium vally lagoon, or none. (like a manialink based minigame or infopage)
 
 * *Packaging:* takes you to the folder in "My Documents/Maniaplanet/Packs/title@yourlogin" where all the title informations are stored.
 You can then edit the files in the folder to customise the visuals of you title. => [[1]][1]
@@ -54,7 +54,7 @@ Limitations:  At this point, The replay shouldn't include any vehicles or charac
 
 * *Manialink: * a  manialink page to display instead of the standard title menu. => [[2]][2]
 
-* *Colour:*  not yet implemented, forgot to remove it..  :mrgreen:
+* *Colour:*  not yet implemented, :mrgreen:
 
 **Editor:**
 
@@ -63,7 +63,7 @@ Limitations:  At this point, The replay shouldn't include any vehicles or charac
 ### Solo
 Here you can create a simple/classic campaign,  or you can further customise with a custom script.
 
->>> It doesn't work in SM yet, although it should be possible to create timeattack-like campaigns once I fix it
+>>> It doesn't work in SM yet, although it should be possible to create timeattack-like campaigns once It's fixed.
 
 *  *Mode:*  you can choose a mode script to be used in solo races.  Otherwise it's the classic timeattack mode.
 *  *Campaign:* select a folder with the campaign tracks.  The layout should be:
