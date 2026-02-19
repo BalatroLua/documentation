@@ -9,7 +9,7 @@ taxonomy:
 
 ## Introduction
 
-ManiaPlanet 3.0 introduces a **new matchmaking technical architecture** to make things **simplier for server hosters**. Server hosting is very popular in both TrackMania and ShootMania, and our goal is for matchmaking to benefit from the hosting skill and passion of the community.
+ManiaPlanet 4.1 introduces a **new matchmaking technical architecture** to make things **simplier for server hosters**. Server hosting is very popular in both TrackMania and ShootMania, and our goal is for matchmaking to benefit from the hosting skill and passion of the community.
 
 For players, the idea remains the same: **you join lobbies to play casually while waiting for your match**; when opponents are matched in the lobby, they are sent to a match server to play their game.
 
